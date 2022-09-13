@@ -32,7 +32,7 @@
   "build": {
     "extends": null,
     "appId": "electron calculator",
-    "icon": "./public/icon.png",
+    "icon": "./images/icon.png",
     "files": [
       "dist/**/*",
       "build/**/*",
